@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Prototipo_pia.Views.PageMain"
+             Title="Pia Ventas">
+ 
+    <StackLayout>
+        <StackLayout HorizontalOptions="Center" Margin="0,10">
+            <Label Text="Prototipo Pia" FontSize="25" TextColor="Blue"/>
+        </StackLayout>
+
+        <StackLayout>
+            <Image Source="" HeightRequest="110"/>
+        </StackLayout>
+
+        <StackLayout Margin="0.10">
+            <Button x:Name="Empezar" Clicked="Empezar_Clicked" Text="Empezar" HorizontalOptions="Center"/>
+        </StackLayout>
+    </StackLayout>
+    
+</ContentPage>

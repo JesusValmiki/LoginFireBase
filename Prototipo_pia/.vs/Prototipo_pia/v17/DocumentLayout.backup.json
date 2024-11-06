@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oscar\\source\\repos\\Prototipo_pia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB43F21-186C-4872-BE24-306CBB80BF1F}|Prototipo_pia\\Prototipo_pia\\Prototipo_pia.csproj|c:\\users\\oscar\\source\\repos\\prototipo_pia\\prototipo_pia\\prototipo_pia\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB43F21-186C-4872-BE24-306CBB80BF1F}|Prototipo_pia\\Prototipo_pia\\Prototipo_pia.csproj|solutionrelative:prototipo_pia\\prototipo_pia\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB43F21-186C-4872-BE24-306CBB80BF1F}|Prototipo_pia\\Prototipo_pia\\Prototipo_pia.csproj|c:\\users\\oscar\\source\\repos\\prototipo_pia\\prototipo_pia\\prototipo_pia\\conexion\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB43F21-186C-4872-BE24-306CBB80BF1F}|Prototipo_pia\\Prototipo_pia\\Prototipo_pia.csproj|solutionrelative:prototipo_pia\\prototipo_pia\\conexion\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB43F21-186C-4872-BE24-306CBB80BF1F}|Prototipo_pia\\Prototipo_pia\\Prototipo_pia.csproj|c:\\users\\oscar\\source\\repos\\prototipo_pia\\prototipo_pia\\prototipo_pia\\views\\menuprincipalpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{DEB43F21-186C-4872-BE24-306CBB80BF1F}|Prototipo_pia\\Prototipo_pia\\Prototipo_pia.csproj|solutionrelative:prototipo_pia\\prototipo_pia\\views\\menuprincipalpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB43F21-186C-4872-BE24-306CBB80BF1F}|Prototipo_pia\\Prototipo_pia\\Prototipo_pia.csproj|c:\\users\\oscar\\source\\repos\\prototipo_pia\\prototipo_pia\\prototipo_pia\\views\\acceso\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB43F21-186C-4872-BE24-306CBB80BF1F}|Prototipo_pia\\Prototipo_pia\\Prototipo_pia.csproj|solutionrelative:prototipo_pia\\prototipo_pia\\views\\acceso\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB43F21-186C-4872-BE24-306CBB80BF1F}|Prototipo_pia\\Prototipo_pia\\Prototipo_pia.csproj|c:\\users\\oscar\\source\\repos\\prototipo_pia\\prototipo_pia\\prototipo_pia\\views\\acceso\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{DEB43F21-186C-4872-BE24-306CBB80BF1F}|Prototipo_pia\\Prototipo_pia\\Prototipo_pia.csproj|solutionrelative:prototipo_pia\\prototipo_pia\\views\\acceso\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBConn.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\source\\repos\\Prototipo_pia\\Prototipo_pia\\Prototipo_pia\\Conexion\\DBConn.cs",
+              "RelativeDocumentMoniker": "Prototipo_pia\\Prototipo_pia\\Conexion\\DBConn.cs",
+              "ToolTip": "C:\\Users\\oscar\\source\\repos\\Prototipo_pia\\Prototipo_pia\\Prototipo_pia\\Conexion\\DBConn.cs",
+              "RelativeToolTip": "Prototipo_pia\\Prototipo_pia\\Conexion\\DBConn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T03:18:33.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\source\\repos\\Prototipo_pia\\Prototipo_pia\\Prototipo_pia\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Prototipo_pia\\Prototipo_pia\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\oscar\\source\\repos\\Prototipo_pia\\Prototipo_pia\\Prototipo_pia\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Prototipo_pia\\Prototipo_pia\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:57:30.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuPrincipalPage.xaml",
+              "DocumentMoniker": "C:\\Users\\oscar\\source\\repos\\Prototipo_pia\\Prototipo_pia\\Prototipo_pia\\Views\\MenuPrincipalPage.xaml",
+              "RelativeDocumentMoniker": "Prototipo_pia\\Prototipo_pia\\Views\\MenuPrincipalPage.xaml",
+              "ToolTip": "C:\\Users\\oscar\\source\\repos\\Prototipo_pia\\Prototipo_pia\\Prototipo_pia\\Views\\MenuPrincipalPage.xaml",
+              "RelativeToolTip": "Prototipo_pia\\Prototipo_pia\\Views\\MenuPrincipalPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T02:20:31.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogInPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\source\\repos\\Prototipo_pia\\Prototipo_pia\\Prototipo_pia\\Views\\Acceso\\LogInPage.xaml.cs",
+              "RelativeDocumentMoniker": "Prototipo_pia\\Prototipo_pia\\Views\\Acceso\\LogInPage.xaml.cs",
+              "ToolTip": "C:\\Users\\oscar\\source\\repos\\Prototipo_pia\\Prototipo_pia\\Prototipo_pia\\Views\\Acceso\\LogInPage.xaml.cs",
+              "RelativeToolTip": "Prototipo_pia\\Prototipo_pia\\Views\\Acceso\\LogInPage.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:18:52.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogInPage.xaml",
+              "DocumentMoniker": "C:\\Users\\oscar\\source\\repos\\Prototipo_pia\\Prototipo_pia\\Prototipo_pia\\Views\\Acceso\\LogInPage.xaml",
+              "RelativeDocumentMoniker": "Prototipo_pia\\Prototipo_pia\\Views\\Acceso\\LogInPage.xaml",
+              "ToolTip": "C:\\Users\\oscar\\source\\repos\\Prototipo_pia\\Prototipo_pia\\Prototipo_pia\\Views\\Acceso\\LogInPage.xaml",
+              "RelativeToolTip": "Prototipo_pia\\Prototipo_pia\\Views\\Acceso\\LogInPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-24T19:00:36.996Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
